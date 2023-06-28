@@ -377,7 +377,10 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .jquery::before{
-    width: 80%;
+    width: 50%;
+}
+.skills-content .right .react::before{
+    width: 50%;
 }
 
 /* teams section styling */
