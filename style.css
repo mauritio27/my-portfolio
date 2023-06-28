@@ -100,10 +100,12 @@ section .title::after{
     font-size: 35px;
     font-weight: 600;
 }
+
 .navbar .logo a span{
     color: crimson;
     transition: all 0.3s ease;
 }
+
 .navbar.sticky .logo a span{
     color: #fff;
 }
@@ -118,9 +120,12 @@ section .title::after{
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
+    transition: all .2s ease-in-out;
 }
 .navbar .menu li a:hover{
     color: crimson;
+    transform: scale(1.1);
+    
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -742,5 +747,9 @@ footer span a:hover{
     color: white;
     transform: rotateY(180deg);
     border-radius: 50%;
+  }
+  
+  .email:hover{
+    cursor: pointer;
   }
   

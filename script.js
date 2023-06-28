@@ -72,6 +72,11 @@ $(document).ready(function(){
     });
 });
 
+function sendEmail() 
+{
+    window.location = "mailto:cristi_hutanu@yahoo.ro";
+}
+
 
 
 
