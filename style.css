@@ -816,3 +816,13 @@ footer span a:hover{
     }
   }
   
+
+  .social-icons i{
+    margin: 20px;
+    border-radius: 50%;
+    
+  }
+
+  #github, #linkedin {
+    all: revert;
+  }
