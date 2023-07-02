@@ -1,4 +1,5 @@
 # my-portfolio
 I am still working on this.
-![cub](https://github.com/mauritio27/my-portfolio/assets/110247529/ea3e870a-4992-411c-b0a4-9e99b90680ab)
+![cub](https://github.com/mauritio27/my-portfolio/assets/110247529/27fe226a-c75f-4457-aa3b-b897a7e07ab1)
+
 
