@@ -753,7 +753,7 @@ footer span a:hover{
     transform: rotateY(180deg);
     border-radius: 6px;
   }
-  
+
   .email:hover{
     cursor: pointer;
   }
